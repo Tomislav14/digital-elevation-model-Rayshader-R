@@ -7,6 +7,6 @@ This README.md file provides instructions on how to use the `rayshader` package 
 
 ![Rayshader Image](https://github.com/Tomislav14/digital-elevation-model-Rayshader-R/blob/main/rayshader_croatia.png)
 ![Rayshader Image]()
-<video src="https://github.com/Tomislav14/digital-elevation-model-Rayshader-R/blob/main/3d%20plot.mp4" width="320" height="200" controls preload></video>
+
 
 
