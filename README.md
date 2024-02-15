@@ -7,10 +7,4 @@ This README.md file provides instructions on how to use the `rayshader` package 
 
 ## Installation
 
-Ensure you have the necessary packages installed in R:
-
-```r
-install.packages("raster")
-install.packages("rayshader")
-
 [Link Text](URL)
