@@ -18,4 +18,4 @@ For more information on how to use Rayshader, including advanced plotting techni
 Rayshader is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Acknowledgements
-Rayshader is developed and maintained by Tyler Morgan-Wall. Special thanks to all contributors who have helped improve the package.
+Rayshader is developed and maintained by Tyler Morgan-Wall. 
