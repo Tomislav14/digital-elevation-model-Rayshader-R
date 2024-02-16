@@ -7,8 +7,7 @@ This README.md file shows some examples of 3D visualizations of raster data whic
 
 ![Rayshader Image](https://github.com/Tomislav14/digital-elevation-model-Rayshader-R/blob/main/images/DEM_MAP_ORG.jpeg)
 ![Rayshader Image](https://github.com/Tomislav14/digital-elevation-model-Rayshader-R/blob/main/images/rayshader_croatia.png)
-![Rayshader Image](https://github.com/Tomislav14/digital-elevation-model-Rayshader-R/blob/main/images/reljef.png)
-![Rayshader Image](https://github.com/Tomislav14/digital-elevation-model-Rayshader-R/blob/main/images/3d%20plot.gif)
+![Rayshader Image](https://github.com/Tomislav14/digital-elevation-model-Rayshader-R/blob/main/3d%20plot%20org.gif)
 
 ## Additional Resources
 
